@@ -1,5 +1,5 @@
 
-FROM c3h3/pydata:u1404-py278-ipynb
+FROM c3h3/pydata:agilearning
 
 MAINTAINER Chia-Chi Chang <c3h3.tw@gmail.com>
 
